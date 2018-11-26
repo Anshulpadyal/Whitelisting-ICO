@@ -1,4 +1,4 @@
-# ico-whitelist
+# ICO - Whitelist
 
 Whitelisitng - KYC
 
